@@ -1,5 +1,16 @@
 <h1 align="center"> Agenda com MongoDB </h1>
 
+## Para Iniciar
+crie pasta .env na raiz com o acesso ao mongo db
+<br><br>CONNECTIONSTRING=mongodb+srv://XXXXXX:-XXXXXX.qklqp42.mongodb.net/XXXXXXX?retryWrites=true&w=majority
+
+```bash
+npm start
+
+```
+
+Abra [http://localhost:3000](http://localhost:3000) com o navegador e veja o resultado
+
 ![image](https://user-images.githubusercontent.com/99082399/218744685-23ccf918-9fd3-4b97-ad0d-d76eba664be6.png)
 
 
