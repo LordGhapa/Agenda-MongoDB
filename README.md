@@ -1,8 +1,9 @@
 <h1 align="center"> Agenda com MongoDB </h1>
-![image](https://user-images.githubusercontent.com/99082399/218743937-81f7b29a-576b-4ff9-a033-39e2e86cbf02.png)
-![image](https://user-images.githubusercontent.com/99082399/218744042-290c8329-4621-4f51-8f66-2e58beb133c4.png)
+
+![image](https://user-images.githubusercontent.com/99082399/218744685-23ccf918-9fd3-4b97-ad0d-d76eba664be6.png)
 
 
+![image](https://user-images.githubusercontent.com/99082399/218744484-64dee047-24c7-4b77-9db1-2ce5901c346c.png)
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -42,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito by Felipe Lacerda :wave: [Linkedin!](https://www.linkedin.com/in/felipe-lacerda-oliveira-274554125/)
+Feito por Felipe Lacerda :wave: [Linkedin!](https://www.linkedin.com/in/felipe-lacerda-oliveira-274554125/)
