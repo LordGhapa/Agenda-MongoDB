@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Agenda é um pequeno sistema que usa back-end e Front-end em javascript que compartilhar onde usuários autorizados podem  e cadastrar contato com nome,sobrenome,email e telefone e alterar e deletar contatos, possui validações back-end e Front-end 
+O Agenda é um pequeno sistema que usa back-end e Front-end em javascript onde usuários autorizados podem  e cadastrar contato com nome,sobrenome,email e telefone e alterar e deletar contatos, possui validações back-end e Front-end 
 
 - [Acesse o projeto finalizado, online](http://34.125.20.150/)
 
